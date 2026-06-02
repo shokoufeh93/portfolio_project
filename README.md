@@ -1,70 +1,126 @@
-# Financial Report Dashboard - Power BI
+# 📊 Power BI Portfolio
 
-## Overview
+Welcome to my Power BI portfolio.
 
-This Power BI dashboard provides a comprehensive financial performance overview across countries, products, customer segments, and discount categories. It enables business stakeholders to monitor key financial metrics, identify sales trends, and analyze profitability through interactive visualizations.
+This repository contains a collection of interactive dashboards developed using Power BI, Power Query, and DAX. These projects demonstrate my skills in data modeling, data transformation, business intelligence, and dashboard design across different business domains.
 
-## Dashboard Preview
+---
 
-![Financial Report Dashboard](images/financial-report-dashboard.png)
+## 🛠️ Skills Demonstrated
 
-## Key Metrics
+- Data Modeling
+- Power Query (ETL)
+- DAX Measures & Calculations
+- Data Visualization
+- KPI Development
+- Business Analytics
+- Dashboard Design
+- Data Storytelling
 
-The dashboard tracks the following KPIs:
+---
 
-- Total Sales: $118.7M
-- Total Cost of Goods Sold (COGS): $101.8M
-- Total Margin: $16.9M
-- Profit Percentage: 16.59%
-- Average Order Value: $169.61
+## 📂 Projects
 
-## Features
+### 📈 Financial Report Dashboard
 
-### Sales Analysis by Country
-Analyze and compare total sales across different countries:
-- United States
-- Canada
-- France
-- Germany
-- Mexico
+A financial performance dashboard focused on sales, cost analysis, profitability, and discount impact across countries, customer segments, and products.
 
-### Sales Analysis by Discount Band
-Evaluate the impact of discount strategies on revenue:
-- None
-- Low
-- Medium
-- High
+**Key Insights:**
+- Sales Performance Analysis
+- Profitability Monitoring
+- Country Comparison
+- Product Performance Tracking
 
-### Sales Analysis by Customer Segment
-Understand revenue contribution from:
-- Government
-- Small Business
-- Enterprise
-- Midmarket
-- Channel Partners
+📁 Folder: `Financial-Report`
 
-### Product Performance Analysis
-Compare sales performance across products:
-- Paseo
-- VTT
-- Velo
-- Amarilla
-- Montana
-- Carretera
+---
 
-### Interactive Filters
-Users can dynamically filter data by:
-- Country
-- Segment
-- Product
-- Discount Band
-- Date Range
+### 🌍 Regional Sales Analysis Dashboard
 
-## Technologies Used
+A sales analytics dashboard comparing regional performance, internet sales, and reseller sales across different countries and territories.
 
-- Power BI Desktop
-- Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel / CSV Dataset
+**Key Insights:**
+- Regional Revenue Analysis
+- Internet vs Reseller Sales
+- Promotion Effectiveness
+- Territory Performance
 
-https://github.com/shokoufeh93/portfolio_project/blob/main/Regional%20Sales%20Analysis.PNG
+📁 Folder: `Regional-Sales-Analysis`
+
+---
+
+### 🎫 IT Tickets Analysis Dashboard
+
+An operational dashboard designed to analyze IT support tickets, resolution performance, departmental workload, and ticket classifications.
+
+**Key Insights:**
+- Ticket Volume Monitoring
+- Resolution Time Analysis
+- Department Workload Tracking
+- Priority & Severity Analysis
+
+📁 Folder: `IT-Tickets-Analysis`
+
+---
+
+### 👥 Human Resources Report Dashboard
+
+A workforce analytics dashboard providing insights into employee demographics, salary costs, attendance metrics, and employee engagement.
+
+**Key Insights:**
+- Workforce Distribution
+- Employee Demographics
+- Attendance Analysis
+- Salary Cost Monitoring
+- Employee Satisfaction Metrics
+
+📁 Folder: `Human-Resources-Report`
+
+---
+
+## 📊 Tools & Technologies
+
+| Tool | Purpose |
+|--------|----------|
+| Power BI Desktop | Dashboard Development |
+| Power Query | Data Transformation |
+| DAX | Data Modeling & Calculations |
+| Excel / CSV | Data Sources |
+| GitHub | Portfolio Management |
+
+---
+
+## 🎯 Business Domains Covered
+
+- Finance Analytics
+- Sales Analytics
+- IT Service Management
+- Human Resources Analytics
+
+---
+
+## 📸 Dashboard Gallery
+
+### Financial Report Dashboard
+
+![Financial Report](https://github.com/shokoufeh93/portfolio_project/blob/main/Finacial%20Report.PNG))
+
+---
+
+### Regional Sales Analysis Dashboard
+
+![Regional Sales Analysis](https://github.com/shokoufeh93/portfolio_project/blob/main/Regional%20Sales%20Analysis.PNG))
+
+---
+
+### IT Tickets Analysis Dashboard
+
+![IT Tickets Analysis](https://github.com/shokoufeh93/portfolio_project/blob/main/IT%20Tickets%20Analysis.PNG)
+
+---
+
+### Human Resources Report Dashboard
+
+![Human Resources Report](https://github.com/shokoufeh93/portfolio_project/blob/main/Heuman%20Resource.PNG))
+
+
