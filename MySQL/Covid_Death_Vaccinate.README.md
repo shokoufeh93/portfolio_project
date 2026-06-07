@@ -1,4 +1,4 @@
-# COVID-19 Global Epidemiology & Vaccination Analysis
+# Covid_Death_Vaccinate Analysis
 
 ## Overview
 
